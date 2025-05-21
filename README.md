@@ -50,14 +50,14 @@ dataset/
 
 pip install ultralytics opencv-python
 
-#🙏 Acknowledgements
+# 🙏 Acknowledgements
 Ultralytics YOLOv8
 
 Roboflow for dataset hosting and format conversion
 
 Google Colab for free cloud GPU access
 
-#📄 License
+# 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
 
