@@ -24,9 +24,10 @@ This project trains a custom object detection model using YOLOv8 to detect cats 
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/sadia-54/Cat-Detector.git
 cd Cat-Detector
+
+---
 
 ##  📁 Dataset
 
@@ -46,20 +47,25 @@ dataset/
 │ ├── images/
 │ ├── label/
 
-# Install Dependencies (for local use)
+---
+
+## Install Dependencies (for local use)
 
 pip install ultralytics opencv-python
 
-```markdown
-# 🙏 Acknowledgements
-```bash
+---
+
+## 🙏 Acknowledgements
+
 - Ultralytics YOLOv8
 
 - Roboflow for dataset hosting and format conversion
 
 - Google Colab for free cloud GPU access
 
-# 📄 License
+---
+
+## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
 
