@@ -48,9 +48,9 @@ dataset/
 
 # Install Dependencies (for local use)
 
-```bash
 pip install ultralytics opencv-python
 
+```markdown
 # 🙏 Acknowledgements
 ```bash
 - Ultralytics YOLOv8
