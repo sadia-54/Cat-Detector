@@ -48,9 +48,11 @@ dataset/
 
 # Install Dependencies (for local use)
 
+```bash
 pip install ultralytics opencv-python
 
 # 🙏 Acknowledgements
+```bash
 - Ultralytics YOLOv8
 
 - Roboflow for dataset hosting and format conversion
